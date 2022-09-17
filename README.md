@@ -1,9 +1,7 @@
-<div id='header' align='center'>
-<img src='https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif' width='300'/>
-</div>
+
 <h2 align='center'> Hi everyone 👋</h2>
 <div align="center">
-  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif" width="600" height="300"/>
 </div>
 
 ## :bowtie: About me :
