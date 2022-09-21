@@ -1,5 +1,5 @@
 
-<h2 align='center'> Hi everyone 👋</h2>
+<h2 align='center'> Hi everyone 👋 My name is Vadim</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/6UFgdU9hirj1pAOJyN/giphy.gif" width="600" height="300"/>
 </div>
@@ -25,12 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
 </div>
 
----
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WakoSS-nsk&theme=gotham&background=000000)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WakoSS-nsk&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
----
 <!--
 **WakoSS-nsk/WakoSS-nsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
